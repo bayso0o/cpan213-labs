@@ -1,3 +1,19 @@
+# CPAN 213 – Mobile Development (React Native)
+
+This repository contains my labs and exercises for CPAN 213 (Cross-Platform Mobile Development) at Humber College.
+
+## Lab 2 – Environment Setup & React Native Configuration
+- React Native project created using the community CLI
+- ESLint and Prettier configured
+- Project folder structure reorganized into `/src`
+- `.env` variables implemented using `react-native-config`
+- Android build tested and running successfully
+- iOS skipped due to Xcode setup issues
+
+## How to run the project
+```bash
+npm install
+npx react-native run-android
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
