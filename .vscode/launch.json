@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug iOS",
+      "request": "launch",
+      "type": "reactnative",
+      "platform": "ios"
+    },
+    {
+      "name": "Debug Android",
+      "request": "launch",
+      "type": "reactnative",
+      "platform": "android"
+    },
+    {
+      "name": "Attach to Metro",
+      "request": "attach",
+      "type": "reactnative"
+    }
+  ]
+}
